@@ -1,6 +1,6 @@
-# sm_front
+## Overview
 
-> A Vue.js project
+It's a mobile web application which users can choose and apply system trading signals as their trading strategy on cryptocurrencies
 
 ## Build Setup
 
