@@ -4,7 +4,10 @@ It's a mobile web application which users can choose and apply system trading si
 
 ## Capture
 
-autoTrading_web.png
+<p align="center">
+  <img src="capture/autoTrading_web.png" alt="autoTrading_web" width="800"> 
+</p>
+
 
 ## Build Setup
 
