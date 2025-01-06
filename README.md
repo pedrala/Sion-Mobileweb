@@ -2,6 +2,10 @@
 
 It's a mobile web application which users can choose and apply system trading signals as their trading strategy on cryptocurrencies
 
+## Capture
+
+autoTrading_web.png
+
 ## Build Setup
 
 ``` bash
